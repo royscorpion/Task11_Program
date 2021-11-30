@@ -39,6 +39,5 @@ namespace Task11_Program
                 }
             } while (x);
         }
-
     }
 }
